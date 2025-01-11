@@ -41,3 +41,5 @@ Query Processing: Once deployed, the chatbot receives user input in real-time. T
 Response Generation: After intent recognition and entity extraction, the chatbot either selects a predefined response or queries external sources to provide more accurate or real-time data. The response is then sent back to the user.
 
 Feedback Loop: The system learns from user interactions over time. As users engage with the chatbot, it collects feedback to refine its responses, improve accuracy, and handle more diverse queries.
+#output:
+![WhatsApp Image 2025-01-11 at 21 12 30_5586671d](https://github.com/user-attachments/assets/befd9c08-0aaf-4fae-81e8-6902627b833d)
